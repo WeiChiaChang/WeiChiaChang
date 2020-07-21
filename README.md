@@ -1,5 +1,7 @@
 ## How Bear You
 
+![WeiChiaChang's github stats](https://github-readme-stats.vercel.app/api?username=weichiachang&show_icons=true&theme=radical)
+
 I write tools & build products with JavaScript for clients & developers.
 
 ### If you like my work you can sponsor me through [ECPay.](https://p.ecpay.com.tw/24D7B)
