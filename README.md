@@ -4,7 +4,7 @@
 
 I write tools & build products with JavaScript for clients & developers.
 
-### If you like my work you can sponsor me through [ECPay.](https://p.ecpay.com.tw/24D7B)
+### If you like my work you can sponsor me via [ECPay.](https://p.ecpay.com.tw/24D7B)
 
 🥂 Cheers! 🐻
 
